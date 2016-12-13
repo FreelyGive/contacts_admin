@@ -1,0 +1,20 @@
+name: contacts_admin
+type: theme
+base theme: seven
+description: Admin theme for contacts dashboard
+package: Contacts
+core: 8.x
+libraries:
+  - contacts_admin/global-styling
+regions:
+  header: 'Header'
+  pre_content: 'Pre-content'
+  breadcrumb: Breadcrumb
+  highlighted: Highlighted
+  help: Help
+  content: Content
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  sidebar_first: 'First sidebar'
+regions_hidden:
+  - sidebar_first
