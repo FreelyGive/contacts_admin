@@ -2,5 +2,6 @@ global-styling:
   version: VERSION
   css:
     base:
-      css/flexbox.css: {}
-      css/dashboard.css: {}
+      css/layout.css: {}
+      css/style.css: {}
+      css/forms.css: {}
