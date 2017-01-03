@@ -2,5 +2,5 @@
   "name": "contacts_admin/contacts_admin",
   "description": "Theme used for the contacts dashboard.",
   "type": "drupal-theme",
-  "license": "GPL-2.0+",
+  "license": "GPL-2.0+"
 }
