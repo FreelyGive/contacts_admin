@@ -7,7 +7,7 @@ dependencies:
     - contacts_admin
 id: contacts_admin_messages
 theme: contacts_admin
-region: highlighted
+region: help
 weight: 0
 provider: null
 plugin: system_messages_block
